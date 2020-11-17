@@ -1,0 +1,13 @@
+Siva:
+  txt_firtstName: ~first_name
+  txt_middleName: ~first_name
+  txt_lastName: ~last_name
+  txt_email: ~email_address
+  txt_url: ~url
+  txt_company: ~company_name
+  txt_bio: ~sentence(min_word_count = 4)
+
+
+Madhu:
+  txt_username: 'sivasandeepj'
+  txt_password: '9Interview@'

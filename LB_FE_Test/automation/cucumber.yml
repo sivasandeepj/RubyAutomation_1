@@ -1,0 +1,6 @@
+# batch and browser are used by parallel profile
+# <% batch = ENV.fetch('TEST_PROCESS_NUMBER','0') %>
+# <% browser = ENV.fetch('BddTarget','any') %>
+# <% common_args = 'FIG_NEWTON_FILE=default.yml DATA_MAGIC_FILE=default.yml' %>
+---
+default: <%= common_args %> --color --format pretty 

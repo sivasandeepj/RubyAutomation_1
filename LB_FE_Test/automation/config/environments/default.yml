@@ -1,0 +1,4 @@
+local_url: https://hub-staging.liquibase.com/landing-page
+dev_url: https://hub-staging.liquibase.com/landing-page
+staging_url: https://hub-staging.liquibase.com/landing-page
+perf_url: https://hub-staging.liquibase.com/landing-page
